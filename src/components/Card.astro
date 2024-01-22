@@ -3,7 +3,7 @@ interface Props {
   tags: string[]
   time: string
   title: string
-  slug: string
+  slug: string | null
 }
 
 const { tags, time, title, slug } = Astro.props

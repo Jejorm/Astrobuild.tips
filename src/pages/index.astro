@@ -47,7 +47,7 @@ const allPosts = await Astro.glob('../content/tips/*.md')
         allPosts.map((post) => {
           const { title, pubDate, tags } = post.frontmatter
 
-          return <Card title={title} time={pubDate} tags={tags} />
+          return <Card title={title} time={pubDate} tags={tags} slug='' />
         })
       }
     </ul>
