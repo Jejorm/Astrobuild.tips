@@ -1,9 +1,10 @@
 ---
 title: 'Hello Javascript'
-pubDate: '2024-01-21'
+pubDate: '2024-01-22'
 description: 'Hello, this is my third recommendation'
-image: ''
+image: 'https://api.lorem.space/image/fashion?w=640&h=480&r=3027'
 tags: ['javascript', 'typescript']
+layout: '../../layouts/Posts.astro'
 ---
 
 Voluptate excepteur sint commodo ex fugiat magna nisi proident occaecat ipsum. Ex labore aliqua non ea consectetur in tempor amet minim do excepteur. Consequat enim nostrud id amet cillum consectetur tempor ut eu consectetur consectetur elit dolore.

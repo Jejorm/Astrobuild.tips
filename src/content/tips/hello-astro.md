@@ -2,8 +2,9 @@
 title: 'Hello Astro'
 pubDate: '2024-01-21'
 description: 'Hello, this is my second recommendation'
-image: ''
+image: 'https://api.lorem.space/image/fashion?w=640&h=480&r=3027'
 tags: ['astro', 'react']
+layout: '../../layouts/Posts.astro'
 ---
 
 Commodo occaecat consectetur voluptate nostrud. Fugiat dolore aliqua in in mollit non. Laboris aute nisi occaecat id veniam dolore ullamco mollit irure in. Proident sit pariatur in velit amet culpa tempor duis aliqua id consectetur et duis. Nisi magna fugiat in exercitation fugiat. Consequat ad dolore fugiat reprehenderit eu dolore eu. Tempor sint eiusmod cillum excepteur elit cupidatat magna magna est tempor et sit.
